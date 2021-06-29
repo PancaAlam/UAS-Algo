@@ -2,7 +2,7 @@ paket  Nomor1 ;
  TumpukanApp kelas  publik {
     public  static  void  main ( String  args []){
         Tumpukan tumpukan =  baru  Tumpukan ( 10 );
-        tumpukan . tekan( 7 );
+        tumpukan . tekan( 8 );
         tumpukan . Baca();
         tumpukan . tekan( 2 );
         tumpukan . Baca();
